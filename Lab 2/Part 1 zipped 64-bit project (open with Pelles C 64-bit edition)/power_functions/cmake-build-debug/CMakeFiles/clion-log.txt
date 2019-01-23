@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\Danie\Documents\University\year 1\term 2\Programming - SYSC2006\Labs\Lab 2 (Week 3 Jan. 22-25)\Part 1 zipped 64-bit project (open with Pelles C 64-bit edition)\power_functions

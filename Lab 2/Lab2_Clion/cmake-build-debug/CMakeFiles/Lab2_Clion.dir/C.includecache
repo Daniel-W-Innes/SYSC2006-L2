@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab 2 (Week 3 Jan. 22-25)/Lab2_Clion/exercises.c
+math.h
+-
+exercises.h
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab 2 (Week 3 Jan. 22-25)/Lab2_Clion/exercises.h
+
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab 2 (Week 3 Jan. 22-25)/Lab2_Clion/exercises.h
+
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab 2 (Week 3 Jan. 22-25)/Lab2_Clion/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+sput.h
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab 2 (Week 3 Jan. 22-25)/Lab2_Clion/sput.h
+power.h
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab 2 (Week 3 Jan. 22-25)/Lab2_Clion/power.h
+exercises.h
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab 2 (Week 3 Jan. 22-25)/Lab2_Clion/exercises.h
+
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab 2 (Week 3 Jan. 22-25)/Lab2_Clion/power.c
+power.h
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab 2 (Week 3 Jan. 22-25)/Lab2_Clion/power.h
+
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab 2 (Week 3 Jan. 22-25)/Lab2_Clion/power.h
+
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab 2 (Week 3 Jan. 22-25)/Lab2_Clion/sput.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+
